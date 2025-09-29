@@ -1,0 +1,44 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android
+android/local.properties
+android/app/google-services.json   # kalau pakai Firebase
+*.keystore
+
+# macOS
+macos/Flutter/ephemeral/
+
+# Windows
+windows/runner/Debug/
+windows/runner/Release/
+
+# Linux
+linux/flutter/ephemeral/
+
+# VS Code / IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Misc
+*.log
+*.tmp
+*.swp
+.DS_Store
