@@ -1,6 +1,6 @@
 # to_do_list_provider
 
-A new Flutter project.
+This is mobile programming tasks
 
 ## Getting Started
 
